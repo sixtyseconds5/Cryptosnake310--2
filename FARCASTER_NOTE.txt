@@ -1,1 +1,1 @@
-NOTE: The OAuth URLs in /api/auth/login and /api/auth/callback use placeholder Farcaster endpoints (auth.farcaster.example). Replace them with the real Farcaster OAuth endpoints and adjust scope as per Farcaster developer docs.
+NOTE: Replace placeholder Farcaster OAuth endpoints in /pages/api/auth/login.js and /pages/api/auth/callback.js with the real endpoints and adjust scope accordingly.
